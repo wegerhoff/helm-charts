@@ -23,7 +23,7 @@ entries:
         url: https://charts.christianhuth.de/public.key
     apiVersion: v2
     appVersion: "12.4"
-    created: "2024-11-28T14:08:36.573867+01:00"
+    created: "2024-11-28T14:14:40.474138+01:00"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -50,6 +50,6 @@ entries:
     - https://github.com/TYPO3/typo3
     type: application
     urls:
-    - https://wegerhoff.github.io/helm-charts/typo3-2.3.3.tgz
+    - https://wegerhoff.github.io/helm-charts/charts/typo3/typo3-2.3.3.tgz
     version: 2.3.3
-generated: "2024-11-28T14:08:36.566072+01:00"
+generated: "2024-11-28T14:14:40.465379+01:00"
